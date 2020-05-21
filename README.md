@@ -19,3 +19,14 @@ No need to contact legal to use **OpenEdu**
 ---
 
 ## How to use
+>**NOTE** These
+
+#### Windows
+M
+
+#### Linux/Unix
+**Prerequisites:**
+* [Python](https://python.org) - 3.0 or higher
+* [Inkscape](https://inkscape.org) - any recent version should do
+
+Run the python command
