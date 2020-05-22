@@ -6,6 +6,6 @@ console.log("Hello, world!");
 pre{background:#000;color:#fff;}
 </style>
 
-```python
-print("Hello,world!")
+```diff
+# print("Hello,world!")
 ```
