@@ -7,5 +7,5 @@ pre{background:#000;color:#fff;}
 </style>
 
 ```diff
-# print("Hello,world!")
++ print("Hello,world!")
 ```
