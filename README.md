@@ -35,8 +35,8 @@ Place the image of your choice into your favorite editing software as you would 
 ## Shapes
 There are numerous shapes and diagrams to use in math and geometry.
 
-![](illustrations/geometry/shapes/3d/cube.svg | width=50)
+<img src="illustrations/geometry/shapes/3d/cube.svg" width="50" height="50" style="float:left">
+<img src="illustrations/geometry/shapes/3d/triangular-pyrimid.svg" width="50" height="50"style="float:left">
+<img src="illustrations/geometry/shapes/3d/septagonal-prism.svg" width="50" height="50" style="float:left">
 
-![](illustrations/geometry/shapes/3d/triangular-pyrimid.svg | width=50)
-
-![](illustrations/geometry/shapes/3d/septagonal-prism.svg | width=50)
+<img src="illustrations/geometry/diagrams/2d/right-angle-labeled-sides-angles-degrees.svg" width="50" height="50">
